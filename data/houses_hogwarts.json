@@ -1,0 +1,141 @@
+{
+  "title": "Para qual casa de Hogwarts você seria selecionado?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual característica você mais valoriza?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Coragem",
+          "alias": "G"
+        },
+        {
+          "id": 2,
+          "name": "Lealdade",
+          "alias": "H"
+        },
+        {
+          "id": 3,
+          "name": "Inteligência",
+          "alias": "R"
+        },
+        {
+          "id": 4,
+          "name": "Ambição",
+          "alias": "S"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Qual matéria você mais gostaria de estudar?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Defesa Contra as Artes das Trevas",
+          "alias": "G"
+        },
+        {
+          "id": 2,
+          "name": "Poções",
+          "alias": "S"
+        },
+        {
+          "id": 3,
+          "name": "Transfiguração",
+          "alias": "R"
+        },
+        {
+          "id": 4,
+          "name": "Herbologia",
+          "alias": "H"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Se você encontrasse um trasgo no banheiro feminino, o que faria?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Enfrentaria o trasgo para proteger os outros",
+          "alias": "G"
+        },
+        {
+          "id": 2,
+          "name": "Fugiria imediatamente",
+          "alias": "H"
+        },
+        {
+          "id": 3,
+          "name": "Tentaria encontrar uma solução inteligente para lidar com a situação",
+          "alias": "R"
+        },
+        {
+          "id": 4,
+          "name": "Ficaria observando para ver o que acontece",
+          "alias": "S"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual objeto você mais deseja ter?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Capa da Invisibilidade",
+          "alias": "G"
+        },
+        {
+          "id": 2,
+          "name": "Varinha de Sabugueiro",
+          "alias": "S"
+        },
+        {
+          "id": 3,
+          "name": "Vira-Tempo",
+          "alias": "R"
+        },
+        {
+          "id": 4,
+          "name": "Espelho de Ojesed",
+          "alias": "H"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual animal você gostaria de ter como animal de estimação?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Leão",
+          "alias": "G"
+        },
+        {
+          "id": 2,
+          "name": "Cobra",
+          "alias": "S"
+        },
+        {
+          "id": 3,
+          "name": "Coruja",
+          "alias": "R"
+        },
+        {
+          "id": 4,
+          "name": "Texugo",
+          "alias": "H"
+        }
+      ]
+    }
+  ],
+  "results": {
+    "G": "Grifinória",
+    "H": "Lufa-Lufa",
+    "R": "Corvinal",
+    "S": "Sonserina"
+  }
+}

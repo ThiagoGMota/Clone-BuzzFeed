@@ -1,0 +1,36 @@
+<div class="quiz-container">
+
+  <div class="quiz-logo">
+    <img id="logo" ngSrc="logo.png" alt="logo-clone-buzzfeed" priority width="425" height="78">
+    <h3>{{title}}</h3>
+  </div>
+
+  @if (!finished) {
+    <div class="quiz-questions">
+      <h3 id="pergunta">{{questionSelected.question}}</h3>
+    </div>
+  }
+
+  @if (!finished) {
+    <div class="quiz-options">
+
+      <button
+        class="btn-option"
+        *ngFor="let option of questionSelected.options; let i = index"
+        (click)="playerChoose(option.alias)"
+      >
+        {{ option.name }}
+      </button>
+
+
+      </div>
+  }
+
+  @if (finished) {
+    <div class="quiz-results" >
+      <h3>O seu resultado é:</h3>
+      <p>{{answersSelected}}</p>
+    </div>
+  }
+
+</div>

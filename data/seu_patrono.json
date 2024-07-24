@@ -1,0 +1,141 @@
+{
+  "title": "Qual é o seu patrono mágico?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual é a sua maior qualidade?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Lealdade",
+          "alias": "Fênix"
+        },
+        {
+          "id": 2,
+          "name": "Inteligência",
+          "alias": "Dragão"
+        },
+        {
+          "id": 3,
+          "name": "Coragem",
+          "alias": "Grifo"
+        },
+        {
+          "id": 4,
+          "name": "Ambição",
+          "alias": "Quimera"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Qual é a sua matéria favorita em Hogwarts?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Herbologia",
+          "alias": "Fênix"
+        },
+        {
+          "id": 2,
+          "name": "Transfiguração",
+          "alias": "Dragão"
+        },
+        {
+          "id": 3,
+          "name": "Defesa Contra as Artes das Trevas",
+          "alias": "Grifo"
+        },
+        {
+          "id": 4,
+          "name": "Poções",
+          "alias": "Quimera"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Qual é o seu maior medo?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Ser rejeitado",
+          "alias": "Fênix"
+        },
+        {
+          "id": 2,
+          "name": "Não ser inteligente o suficiente",
+          "alias": "Dragão"
+        },
+        {
+          "id": 3,
+          "name": "Não ser corajoso o suficiente",
+          "alias": "Grifo"
+        },
+        {
+          "id": 4,
+          "name": "Falhar em seus objetivos",
+          "alias": "Quimera"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual é o seu maior sonho?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Ter amigos leais para a vida toda",
+          "alias": "Fênix"
+        },
+        {
+          "id": 2,
+          "name": "Ser o melhor em sua área de estudo",
+          "alias": "Dragão"
+        },
+        {
+          "id": 3,
+          "name": "Fazer algo heroico e corajoso",
+          "alias": "Grifo"
+        },
+        {
+          "id": 4,
+          "name": "Alcançar o sucesso e o poder",
+          "alias": "Quimera"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual é a sua maior fraqueza?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Ser ingênuo",
+          "alias": "Fênix"
+        },
+        {
+          "id": 2,
+          "name": "Ser perfeccionista",
+          "alias": "Dragão"
+        },
+        {
+          "id": 3,
+          "name": "Ser impulsivo",
+          "alias": "Grifo"
+        },
+        {
+          "id": 4,
+          "name": "Ser manipulador",
+          "alias": "Quimera"
+        }
+      ]
+    }
+  ],
+  "results": {
+    "Fênix": "Seu patrono é uma fênix! Você é uma pessoa leal, dedicada e capaz de renascer das cinzas. Sua resiliência e bondade iluminam o caminho dos outros.",
+    "Dragão": "Seu patrono é um dragão! Você é uma pessoa inteligente, poderosa e cheia de sabedoria. Sua presença é imponente e todos admiram sua força.",
+    "Grifo": "Seu patrono é um grifo! Você é uma pessoa corajosa, determinada e cheia de espírito aventureiro. Sua bravura inspira aqueles ao seu redor.",
+    "Quimera": "Seu patrono é uma quimera! Você é uma pessoa ambiciosa, astuta e cheia de recursos. Sua habilidade de se adaptar a diferentes situações é impressionante."
+  }
+}
